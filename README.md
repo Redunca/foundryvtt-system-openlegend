@@ -1,3 +1,5 @@
+# This is a fork from https://gitlab.com/tabletop-creations/foundryvtt-openlegends
+
 # Open Legend RPG for Foundry VTT
 
 An implementation of the Open Legend RPG system for Foundry Virtual Tabletop (http://foundryvtt.com).
